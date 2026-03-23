@@ -87,6 +87,6 @@ Các biểu đồ phân tích, kết quả (Feature Importance, SHAP) được l
 
 ```
 ### Đóng góp 
-- Phan Thi Đinh
+- Phan Thi Dinh
 - Trieu Phuong Anh
 - Nguyen Thi Thu Ha
